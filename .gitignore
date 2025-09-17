@@ -1,0 +1,6 @@
+/.idea
+/.venv
+/app.py
+/my_model.keras
+/static
+/templates
